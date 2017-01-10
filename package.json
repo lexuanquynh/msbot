@@ -1,0 +1,28 @@
+{
+  "name": "lowercase-letters-only",
+  "version": "1.0.0",
+  "description": "\"Build a bot in Node.js on Microsoft Bot Framework.\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexuanquynh/msbot.git"
+  },
+  "keywords": [
+    "bot",
+    "slack",
+    "whatever"
+  ],
+  "author": "quynhbkhn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexuanquynh/msbot/issues"
+  },
+  "homepage": "https://github.com/lexuanquynh/msbot#readme",
+  "dependencies": {
+    "botbuilder": "^3.5.1",
+    "restify": "^4.3.0"
+  }
+}
